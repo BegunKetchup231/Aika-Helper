@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\bckp\\source\\repos\\AikaHelp_ByGrifinory\\AikaHelp_ByGrifinory.csproj": {}
+    "C:\\Users\\Wellden Moura\\Documents\\GitHub\\Aika-Helper\\AikaHelp_ByGrifinory.csproj": {}
   },
   "projects": {
-    "D:\\bckp\\source\\repos\\AikaHelp_ByGrifinory\\AikaHelp_ByGrifinory.csproj": {
+    "C:\\Users\\Wellden Moura\\Documents\\GitHub\\Aika-Helper\\AikaHelp_ByGrifinory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\bckp\\source\\repos\\AikaHelp_ByGrifinory\\AikaHelp_ByGrifinory.csproj",
+        "projectUniqueName": "C:\\Users\\Wellden Moura\\Documents\\GitHub\\Aika-Helper\\AikaHelp_ByGrifinory.csproj",
         "projectName": "AikaHelp_ByGrifinory",
-        "projectPath": "D:\\bckp\\source\\repos\\AikaHelp_ByGrifinory\\AikaHelp_ByGrifinory.csproj",
+        "projectPath": "C:\\Users\\Wellden Moura\\Documents\\GitHub\\Aika-Helper\\AikaHelp_ByGrifinory.csproj",
         "packagesPath": "C:\\Users\\Wellden Moura\\.nuget\\packages\\",
-        "outputPath": "D:\\bckp\\source\\repos\\AikaHelp_ByGrifinory\\obj\\",
+        "outputPath": "C:\\Users\\Wellden Moura\\Documents\\GitHub\\Aika-Helper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

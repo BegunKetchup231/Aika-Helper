@@ -52,3 +52,22 @@ D:\bckp\source\repos\AikaHelp_ByGrifinory\obj\Debug\net7.0-windows\refint\AikaHe
 D:\bckp\source\repos\AikaHelp_ByGrifinory\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.pdb
 D:\bckp\source\repos\AikaHelp_ByGrifinory\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.genruntimeconfig.cache
 D:\bckp\source\repos\AikaHelp_ByGrifinory\obj\Debug\net7.0-windows\ref\AikaHelp_ByGrifinory.dll
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\bin\Debug\net7.0-windows\AikaHelp_ByGrifinory.exe
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\bin\Debug\net7.0-windows\AikaHelp_ByGrifinory.deps.json
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\bin\Debug\net7.0-windows\AikaHelp_ByGrifinory.runtimeconfig.json
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\bin\Debug\net7.0-windows\AikaHelp_ByGrifinory.dll
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\bin\Debug\net7.0-windows\AikaHelp_ByGrifinory.pdb
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.AikaHome.resources
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.Properties.Resources.resources
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.SimuladorDeSkills.resources
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.csproj.GenerateResource.cache
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.AssemblyInfoInputs.cache
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.AssemblyInfo.cs
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.csproj.CoreCompileInputs.cache
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.sourcelink.json
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.dll
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\refint\AikaHelp_ByGrifinory.dll
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.pdb
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\AikaHelp_ByGrifinory.genruntimeconfig.cache
+C:\Users\Wellden Moura\Documents\GitHub\Aika-Helper\obj\Debug\net7.0-windows\ref\AikaHelp_ByGrifinory.dll
