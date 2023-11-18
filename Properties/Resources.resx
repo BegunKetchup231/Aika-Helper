@@ -1,0 +1,709 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="acao_imediata" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\acao_imediata.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="afiar_arma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\afiar_arma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="afinidade_negra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\afinidade_negra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="area_de_impacto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\area_de_impacto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="armadilha_multipla" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\armadilha_multipla.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ataque_atordoante" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ataque_atordoante.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ataque_poderoso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ataque_poderoso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ativacao_de_mana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ativacao_de_mana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ativacao_divina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ativacao_divina.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="atracao_divina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\atracao_divina.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="atracao_divina_tran" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\atracao_divina_tran.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aura_explendor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\aura_explendor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="avanco_poderoso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avanco_poderoso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bencao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bencao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bomba_maldita" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bomba_maldita.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="botao_mais4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\botao_mais4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="botao_menos4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\botao_menos4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bruma_sonifera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bruma_sonifera.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cancao_da_bravura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancao_da_bravura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cancao_da_defesa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancao_da_defesa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cancao_da_gloria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\calcao_da_gloria.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cancao_da_guerra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancao_da_guerra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cancao_do_medo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancao_do_medo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="carga_divina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carga_divina.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="carinho_do_ceu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carinho_do_ceu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chama_caotica" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chama_caotica.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="choque_hidra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\choque_hidra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="choque_subito" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\choque_subito.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="choro_de_chumbo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\choro_de_chumbo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="concentracao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\concentracao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="contagem_regressiva" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\contagem_regressiva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="contra_golpe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\contra_golpe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="corpo_draconiano" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\corpo_draconiano.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="corroer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\corroer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="criacao_de_agua_benta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\criacao_de_agua_benta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cristalizar_mana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cristalizar_mana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cruz_do_julgamento" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cruz_do_julgamento.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cruz_penitencial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cruz_penitencial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cura_concentrada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cura_concentrada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cura_em_massa_defensiva" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cura_em_massa_defensiva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cura_preventiva" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cura_preventiva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="defesa_automatica" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\defesa_automatica.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="defesa_concentrada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\defesa_concentrada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="demolicao_x14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\demolicao_x14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="despertar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\despertar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="destino" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\destino.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="detonacao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\detonacao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="disparos_rapidos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\disparos_rapidos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="disparo_demolidor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\disparo_demolidor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dixit_dominus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dixit_dominus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dor_do_predador" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dor_do_predador.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eclater" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eclater.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eden_piedoso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eden_piedoso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eliminar_alvo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eliminar_alvo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="el_aegis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\el_aegis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="el_aster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\el_aster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="el_aster_tran" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\el_aster_tran.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="el_thymos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\el_thymos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="el_tycia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\el_tycia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="el_tycia_tran" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\el_tycia_tran.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="emissao_divina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\emissao_divina.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enxame_da_escuridao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\enxame_da_escuridao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="escudo_celestial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\escudo_celestial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="escudo_de_nikita" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\escudo_de_nikita.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="escudo_magico" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\escudo_magico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="escudo_negro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\escudo_negro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="escudo_refletor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\escudo_refletor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="escudo_sagrado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\escudo_sagrado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="escudo_vingador" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\escudo_vingador.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="espada_sangrenta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\espada_sangrenta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="espinho_venenoso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\espinho_venenoso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="esplendor_caotico" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\esplendor_caotico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="estocada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\estocada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="estripador" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\estripador.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="explosao_das_trevas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\explosao_das_trevas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="explosao_napalm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\explosao_napalm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="explosao_radiante" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\explosao_radiante.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="falsa_pontaria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\falsa_pontaria.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ferida_mortal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ferida_mortal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="festival_de_balas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\festival_de_balas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fe_imortal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fe_imortal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flecha_sagrada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flecha_sagrada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flores_da_gloria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flores_da_gloria.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="focar_magica" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\focar_magica.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="forja_de_aço" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\forja_de_aço.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fortitude" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fortitude.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fumaca_sangrenta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fumaca_sangrenta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fundo_app" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fundo_app.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fundo_nada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fundo_nada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fundo_skills" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fundo_skills.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="furacao_negro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\furacao_negro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="furia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\furia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gloria_de_excelsis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gloria_de_excelsis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golpe_divino" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golpe_divino.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golpe_fantasma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golpe_fantasma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guarda_fatal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guarda_fatal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guardiao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guardiao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="harmonia_de_mana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\harmonia_de_mana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="impedimento" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\impedimento.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="incitar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\incitar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="incitar_multidao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\incitar_multidao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="inferno_caotico" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\inferno_caotico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="inspirar_coragem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\inspirar_coragem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="inspirar_matanca" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\inspirar_matanca.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="instinto_de_batalha" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\instinto_de_batalha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="investida_mortal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\investida_mortal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="julgamento" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\julgamento.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lamina_carregada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lamina_carregada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lamina_da_promessa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lamina_da_promessa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lamina_da_promessa_tran" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lamina_da_promessa_tran.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lanca_de_raio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lanca_de_raio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="liberacao_de_mana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\liberacao_de_mana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="limite_brutal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\limite_brutal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mao_da_cura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mao_da_cura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mao_da_escuridao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mao_da_escuridao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marca_do_perseguidor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\marca_do_perseguidor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maximizar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maximizar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mestre_da_espada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mestre_da_espada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mjolnir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mjolnir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="morte_decidida" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\morte_decidida.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="movimento_gracioso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\movimento_gracioso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="najmum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\najmum.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="negar_cura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\negar_cura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nemesis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nemesis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nevoa_negra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nevoa_negra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ocultar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ocultar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ocultar_d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ocultar_d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="olhar_penetrante" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\olhar_penetrante.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="onda_de_choque" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\onda_de_choque.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pancada_de_sangue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pancada_de_sangue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pecados_mortais" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pecados_mortais.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pedra_da_alma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pedra_da_alma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penetrar_armadura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penetrar_armadura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penitencia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penitencia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="perseguidor_implacavel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\perseguidor_implacavel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="poder_absoluto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\poder_absoluto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="poder_critico" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\poder_critico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="polimorfo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\polimorfo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ponto_cego" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ponto_cego.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ponto_vital" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ponto_vital.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="portao_abissal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\portao_abissal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="posicao_de_atirador" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\posicao_de_atirador.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="postura_fantasma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\postura_fantasma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="postura_fnal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\postura_fnal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="precisao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\precisao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="primeiro_encontro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\primeiro_encontro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="proeminencia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\proeminencia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="proficiencia_com_escudo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\proficiencia_com_escudo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="protecao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\protecao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="protecao_tran" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\protecao_tran.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="punicao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\punicao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="quebrar_armadura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\quebrar_armadura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="queda_negra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\queda_negra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="raio_solar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\raio_solar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rajada_sonica" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rajada_sonica.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reacao_em_cadeia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reacao_em_cadeia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="recuperacao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\recuperacao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="remediar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\remediar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="requiem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\requiem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="resoluto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\resoluto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ressureicao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ressureicao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="retorno_da_magica" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\retorno_da_magica.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="revelacao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\revelacao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rosa_negra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rosa_negra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rosa_sangrenta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rosa_sangrenta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="salto_de_impacto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\salto_de_impacto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="salvador_imprudente" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\salvador_imprudente.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sangue_sagrado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sangue_sagrado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="santuario" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\santuario.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sentenca_de_morte" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sentenca_de_morte.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sofrimento" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sofrimento.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="teleporte_em_massa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\teleporte_em_massa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tempestade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tempestade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tempestade_de_laminas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tempestade_de_laminas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tempestade_de_mana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tempestade_de_mana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tempestade_de_raios" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tempestade_de_raios.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tiro_angular" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tiro_angular.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tiro_descontrolado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tiro_descontrolado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tiro_fatal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tiro_fatal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tiro_na_perna" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tiro_na_perna.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="travar_alvo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\travar_alvo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trovao_ruinoso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trovao_ruinoso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uegenes_lux" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uegenes_lux.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uivo_da_liberdade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uivo_da_liberdade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uivo_de_sangue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uivo_de_sangue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ultimato" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ultimato.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uniao_divina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uniao_divina.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="velocidade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\velocidade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="veneno_da_lentidao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\veneno_da_lentidao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="veneno_de_mana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\veneno_de_mana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="veneno_hidra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\veneno hidra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vento_cortante" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vento_cortante.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vinculo_quebrado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vinculo_quebrado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="visao_acurada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\visao_acurada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vontade_inabalavel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vontade_inabalavel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

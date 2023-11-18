@@ -1,0 +1,17 @@
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\bin\Release\net7.0-windows\AikaHelp_ByGrifinory.exe
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\bin\Release\net7.0-windows\AikaHelp_ByGrifinory.deps.json
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\bin\Release\net7.0-windows\AikaHelp_ByGrifinory.runtimeconfig.json
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\bin\Release\net7.0-windows\AikaHelp_ByGrifinory.dll
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\bin\Release\net7.0-windows\AikaHelp_ByGrifinory.pdb
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\AikaHelp_ByGrifinory.AikaHome.resources
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\AikaHelp_ByGrifinory.SimuladorDeSkills.resources
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\AikaHelp_ByGrifinory.csproj.GenerateResource.cache
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\AikaHelp_ByGrifinory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\AikaHelp_ByGrifinory.AssemblyInfoInputs.cache
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\AikaHelp_ByGrifinory.AssemblyInfo.cs
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\AikaHelp_ByGrifinory.csproj.CoreCompileInputs.cache
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\AikaHelp_ByGrifinory.dll
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\refint\AikaHelp_ByGrifinory.dll
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\AikaHelp_ByGrifinory.pdb
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\AikaHelp_ByGrifinory.genruntimeconfig.cache
+C:\Users\welld\source\repos\AikaHelp_ByGrifinory\obj\Release\net7.0-windows\ref\AikaHelp_ByGrifinory.dll
