@@ -213,9 +213,9 @@ namespace AikaHelp_ByGrifinory.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap botao_mais4 {
+        internal static System.Drawing.Bitmap botao_mais {
             get {
-                object obj = ResourceManager.GetObject("botao_mais4", resourceCulture);
+                object obj = ResourceManager.GetObject("botao_mais", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -223,9 +223,9 @@ namespace AikaHelp_ByGrifinory.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap botao_menos4 {
+        internal static System.Drawing.Bitmap botao_menos {
             get {
-                object obj = ResourceManager.GetObject("botao_menos4", resourceCulture);
+                object obj = ResourceManager.GetObject("botao_menos", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
