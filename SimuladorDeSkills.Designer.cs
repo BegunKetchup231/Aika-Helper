@@ -1014,8 +1014,8 @@
             // 
             // button6
             // 
-            button6.BackColor = Color.DimGray;
-            button6.BackgroundImage = Properties.Resources.botao_menos4;
+            button6.BackColor = Color.Transparent;
+            button6.BackgroundImage = Properties.Resources.botao_menos;
             button6.BackgroundImageLayout = ImageLayout.Stretch;
             button6.Cursor = Cursors.Hand;
             button6.Dock = DockStyle.Bottom;
@@ -1046,8 +1046,8 @@
             // 
             // button8
             // 
-            button8.BackColor = Color.DimGray;
-            button8.BackgroundImage = Properties.Resources.botao_menos4;
+            button8.BackColor = Color.Transparent;
+            button8.BackgroundImage = Properties.Resources.botao_menos;
             button8.BackgroundImageLayout = ImageLayout.Stretch;
             button8.Cursor = Cursors.Hand;
             button8.Dock = DockStyle.Bottom;
@@ -1078,8 +1078,8 @@
             // 
             // button10
             // 
-            button10.BackColor = Color.DimGray;
-            button10.BackgroundImage = Properties.Resources.botao_menos4;
+            button10.BackColor = Color.Transparent;
+            button10.BackgroundImage = Properties.Resources.botao_menos;
             button10.BackgroundImageLayout = ImageLayout.Stretch;
             button10.Cursor = Cursors.Hand;
             button10.Dock = DockStyle.Bottom;
@@ -1110,8 +1110,8 @@
             // 
             // button12
             // 
-            button12.BackColor = Color.DimGray;
-            button12.BackgroundImage = Properties.Resources.botao_menos4;
+            button12.BackColor = Color.Transparent;
+            button12.BackgroundImage = Properties.Resources.botao_menos;
             button12.BackgroundImageLayout = ImageLayout.Stretch;
             button12.Cursor = Cursors.Hand;
             button12.Dock = DockStyle.Bottom;
@@ -1224,8 +1224,8 @@
             // 
             // button14
             // 
-            button14.BackColor = Color.DimGray;
-            button14.BackgroundImage = Properties.Resources.botao_menos4;
+            button14.BackColor = Color.Transparent;
+            button14.BackgroundImage = Properties.Resources.botao_menos;
             button14.BackgroundImageLayout = ImageLayout.Stretch;
             button14.Cursor = Cursors.Hand;
             button14.Dock = DockStyle.Bottom;
@@ -1256,8 +1256,8 @@
             // 
             // button16
             // 
-            button16.BackColor = Color.DimGray;
-            button16.BackgroundImage = Properties.Resources.botao_menos4;
+            button16.BackColor = Color.Transparent;
+            button16.BackgroundImage = Properties.Resources.botao_menos;
             button16.BackgroundImageLayout = ImageLayout.Stretch;
             button16.Cursor = Cursors.Hand;
             button16.Dock = DockStyle.Bottom;
@@ -1288,8 +1288,8 @@
             // 
             // button18
             // 
-            button18.BackColor = Color.DimGray;
-            button18.BackgroundImage = Properties.Resources.botao_menos4;
+            button18.BackColor = Color.Transparent;
+            button18.BackgroundImage = Properties.Resources.botao_menos;
             button18.BackgroundImageLayout = ImageLayout.Stretch;
             button18.Cursor = Cursors.Hand;
             button18.Dock = DockStyle.Bottom;
@@ -1320,8 +1320,8 @@
             // 
             // button20
             // 
-            button20.BackColor = Color.DimGray;
-            button20.BackgroundImage = Properties.Resources.botao_menos4;
+            button20.BackColor = Color.Transparent;
+            button20.BackgroundImage = Properties.Resources.botao_menos;
             button20.BackgroundImageLayout = ImageLayout.Stretch;
             button20.Cursor = Cursors.Hand;
             button20.Dock = DockStyle.Bottom;
@@ -1336,8 +1336,8 @@
             // 
             // button21
             // 
-            button21.BackColor = Color.DimGray;
-            button21.BackgroundImage = Properties.Resources.botao_mais4;
+            button21.BackColor = Color.Transparent;
+            button21.BackgroundImage = Properties.Resources.botao_mais;
             button21.BackgroundImageLayout = ImageLayout.Stretch;
             button21.Cursor = Cursors.Hand;
             button21.Dock = DockStyle.Bottom;
@@ -1352,8 +1352,8 @@
             // 
             // button22
             // 
-            button22.BackColor = Color.DimGray;
-            button22.BackgroundImage = Properties.Resources.botao_menos4;
+            button22.BackColor = Color.Transparent;
+            button22.BackgroundImage = Properties.Resources.botao_menos;
             button22.BackgroundImageLayout = ImageLayout.Stretch;
             button22.Cursor = Cursors.Hand;
             button22.Dock = DockStyle.Bottom;
@@ -1368,8 +1368,8 @@
             // 
             // button23
             // 
-            button23.BackColor = Color.DimGray;
-            button23.BackgroundImage = Properties.Resources.botao_mais4;
+            button23.BackColor = Color.Transparent;
+            button23.BackgroundImage = Properties.Resources.botao_mais;
             button23.BackgroundImageLayout = ImageLayout.Stretch;
             button23.Cursor = Cursors.Hand;
             button23.Dock = DockStyle.Bottom;
@@ -1384,8 +1384,8 @@
             // 
             // button24
             // 
-            button24.BackColor = Color.DimGray;
-            button24.BackgroundImage = Properties.Resources.botao_menos4;
+            button24.BackColor = Color.Transparent;
+            button24.BackgroundImage = Properties.Resources.botao_menos;
             button24.BackgroundImageLayout = ImageLayout.Stretch;
             button24.Cursor = Cursors.Hand;
             button24.Dock = DockStyle.Bottom;
@@ -1400,8 +1400,8 @@
             // 
             // button25
             // 
-            button25.BackColor = Color.DimGray;
-            button25.BackgroundImage = Properties.Resources.botao_mais4;
+            button25.BackColor = Color.Transparent;
+            button25.BackgroundImage = Properties.Resources.botao_mais;
             button25.BackgroundImageLayout = ImageLayout.Stretch;
             button25.Cursor = Cursors.Hand;
             button25.Dock = DockStyle.Bottom;
@@ -1416,8 +1416,8 @@
             // 
             // button26
             // 
-            button26.BackColor = Color.DimGray;
-            button26.BackgroundImage = Properties.Resources.botao_menos4;
+            button26.BackColor = Color.Transparent;
+            button26.BackgroundImage = Properties.Resources.botao_menos;
             button26.BackgroundImageLayout = ImageLayout.Stretch;
             button26.Cursor = Cursors.Hand;
             button26.Dock = DockStyle.Bottom;
@@ -1432,8 +1432,8 @@
             // 
             // button27
             // 
-            button27.BackColor = Color.DimGray;
-            button27.BackgroundImage = Properties.Resources.botao_mais4;
+            button27.BackColor = Color.Transparent;
+            button27.BackgroundImage = Properties.Resources.botao_mais;
             button27.BackgroundImageLayout = ImageLayout.Stretch;
             button27.Cursor = Cursors.Hand;
             button27.Dock = DockStyle.Bottom;
@@ -1448,8 +1448,8 @@
             // 
             // button28
             // 
-            button28.BackColor = Color.DimGray;
-            button28.BackgroundImage = Properties.Resources.botao_menos4;
+            button28.BackColor = Color.Transparent;
+            button28.BackgroundImage = Properties.Resources.botao_menos;
             button28.BackgroundImageLayout = ImageLayout.Stretch;
             button28.Cursor = Cursors.Hand;
             button28.Dock = DockStyle.Bottom;
@@ -1464,8 +1464,8 @@
             // 
             // button29
             // 
-            button29.BackColor = Color.DimGray;
-            button29.BackgroundImage = Properties.Resources.botao_mais4;
+            button29.BackColor = Color.Transparent;
+            button29.BackgroundImage = Properties.Resources.botao_mais;
             button29.BackgroundImageLayout = ImageLayout.Stretch;
             button29.Cursor = Cursors.Hand;
             button29.Dock = DockStyle.Bottom;
@@ -1480,8 +1480,8 @@
             // 
             // button30
             // 
-            button30.BackColor = Color.DimGray;
-            button30.BackgroundImage = Properties.Resources.botao_menos4;
+            button30.BackColor = Color.Transparent;
+            button30.BackgroundImage = Properties.Resources.botao_menos;
             button30.BackgroundImageLayout = ImageLayout.Stretch;
             button30.Cursor = Cursors.Hand;
             button30.Dock = DockStyle.Bottom;
@@ -1496,8 +1496,8 @@
             // 
             // button31
             // 
-            button31.BackColor = Color.DimGray;
-            button31.BackgroundImage = Properties.Resources.botao_mais4;
+            button31.BackColor = Color.Transparent;
+            button31.BackgroundImage = Properties.Resources.botao_mais;
             button31.BackgroundImageLayout = ImageLayout.Stretch;
             button31.Cursor = Cursors.Hand;
             button31.Dock = DockStyle.Bottom;
@@ -1512,8 +1512,8 @@
             // 
             // button32
             // 
-            button32.BackColor = Color.DimGray;
-            button32.BackgroundImage = Properties.Resources.botao_menos4;
+            button32.BackColor = Color.Transparent;
+            button32.BackgroundImage = Properties.Resources.botao_menos;
             button32.BackgroundImageLayout = ImageLayout.Stretch;
             button32.Cursor = Cursors.Hand;
             button32.Dock = DockStyle.Bottom;
@@ -1528,8 +1528,8 @@
             // 
             // button33
             // 
-            button33.BackColor = Color.DimGray;
-            button33.BackgroundImage = Properties.Resources.botao_mais4;
+            button33.BackColor = Color.Transparent;
+            button33.BackgroundImage = Properties.Resources.botao_mais;
             button33.BackgroundImageLayout = ImageLayout.Stretch;
             button33.Cursor = Cursors.Hand;
             button33.Dock = DockStyle.Bottom;
@@ -1544,8 +1544,8 @@
             // 
             // button34
             // 
-            button34.BackColor = Color.DimGray;
-            button34.BackgroundImage = Properties.Resources.botao_menos4;
+            button34.BackColor = Color.Transparent;
+            button34.BackgroundImage = Properties.Resources.botao_menos;
             button34.BackgroundImageLayout = ImageLayout.Stretch;
             button34.Cursor = Cursors.Hand;
             button34.Dock = DockStyle.Bottom;
@@ -1560,8 +1560,8 @@
             // 
             // button35
             // 
-            button35.BackColor = Color.DimGray;
-            button35.BackgroundImage = Properties.Resources.botao_mais4;
+            button35.BackColor = Color.Transparent;
+            button35.BackgroundImage = Properties.Resources.botao_mais;
             button35.BackgroundImageLayout = ImageLayout.Stretch;
             button35.Cursor = Cursors.Hand;
             button35.Dock = DockStyle.Bottom;
@@ -1576,8 +1576,8 @@
             // 
             // button36
             // 
-            button36.BackColor = Color.DimGray;
-            button36.BackgroundImage = Properties.Resources.botao_menos4;
+            button36.BackColor = Color.Transparent;
+            button36.BackgroundImage = Properties.Resources.botao_menos;
             button36.BackgroundImageLayout = ImageLayout.Stretch;
             button36.Cursor = Cursors.Hand;
             button36.Dock = DockStyle.Bottom;
@@ -1592,8 +1592,8 @@
             // 
             // button37
             // 
-            button37.BackColor = Color.DimGray;
-            button37.BackgroundImage = Properties.Resources.botao_mais4;
+            button37.BackColor = Color.Transparent;
+            button37.BackgroundImage = Properties.Resources.botao_mais;
             button37.BackgroundImageLayout = ImageLayout.Stretch;
             button37.Cursor = Cursors.Hand;
             button37.Dock = DockStyle.Bottom;
@@ -1608,8 +1608,8 @@
             // 
             // button38
             // 
-            button38.BackColor = Color.DimGray;
-            button38.BackgroundImage = Properties.Resources.botao_menos4;
+            button38.BackColor = Color.Transparent;
+            button38.BackgroundImage = Properties.Resources.botao_menos;
             button38.BackgroundImageLayout = ImageLayout.Stretch;
             button38.Cursor = Cursors.Hand;
             button38.Dock = DockStyle.Bottom;
@@ -1624,8 +1624,8 @@
             // 
             // button39
             // 
-            button39.BackColor = Color.DimGray;
-            button39.BackgroundImage = Properties.Resources.botao_mais4;
+            button39.BackColor = Color.Transparent;
+            button39.BackgroundImage = Properties.Resources.botao_mais;
             button39.BackgroundImageLayout = ImageLayout.Stretch;
             button39.Cursor = Cursors.Hand;
             button39.Dock = DockStyle.Bottom;
@@ -1640,8 +1640,8 @@
             // 
             // button40
             // 
-            button40.BackColor = Color.DimGray;
-            button40.BackgroundImage = Properties.Resources.botao_menos4;
+            button40.BackColor = Color.Transparent;
+            button40.BackgroundImage = Properties.Resources.botao_menos;
             button40.BackgroundImageLayout = ImageLayout.Stretch;
             button40.Cursor = Cursors.Hand;
             button40.Dock = DockStyle.Bottom;
@@ -1656,8 +1656,8 @@
             // 
             // button41
             // 
-            button41.BackColor = Color.DimGray;
-            button41.BackgroundImage = Properties.Resources.botao_mais4;
+            button41.BackColor = Color.Transparent;
+            button41.BackgroundImage = Properties.Resources.botao_mais;
             button41.BackgroundImageLayout = ImageLayout.Stretch;
             button41.Cursor = Cursors.Hand;
             button41.Dock = DockStyle.Bottom;
@@ -1672,8 +1672,8 @@
             // 
             // button42
             // 
-            button42.BackColor = Color.DimGray;
-            button42.BackgroundImage = Properties.Resources.botao_menos4;
+            button42.BackColor = Color.Transparent;
+            button42.BackgroundImage = Properties.Resources.botao_menos;
             button42.BackgroundImageLayout = ImageLayout.Stretch;
             button42.Cursor = Cursors.Hand;
             button42.Dock = DockStyle.Bottom;
@@ -1688,8 +1688,8 @@
             // 
             // button43
             // 
-            button43.BackColor = Color.DimGray;
-            button43.BackgroundImage = Properties.Resources.botao_mais4;
+            button43.BackColor = Color.Transparent;
+            button43.BackgroundImage = Properties.Resources.botao_mais;
             button43.BackgroundImageLayout = ImageLayout.Stretch;
             button43.Cursor = Cursors.Hand;
             button43.Dock = DockStyle.Bottom;
@@ -1704,8 +1704,8 @@
             // 
             // button44
             // 
-            button44.BackColor = Color.DimGray;
-            button44.BackgroundImage = Properties.Resources.botao_menos4;
+            button44.BackColor = Color.Transparent;
+            button44.BackgroundImage = Properties.Resources.botao_menos;
             button44.BackgroundImageLayout = ImageLayout.Stretch;
             button44.Cursor = Cursors.Hand;
             button44.Dock = DockStyle.Bottom;
@@ -1720,8 +1720,8 @@
             // 
             // button45
             // 
-            button45.BackColor = Color.DimGray;
-            button45.BackgroundImage = Properties.Resources.botao_mais4;
+            button45.BackColor = Color.Transparent;
+            button45.BackgroundImage = Properties.Resources.botao_mais;
             button45.BackgroundImageLayout = ImageLayout.Stretch;
             button45.Cursor = Cursors.Hand;
             button45.Dock = DockStyle.Bottom;
@@ -1736,8 +1736,8 @@
             // 
             // button46
             // 
-            button46.BackColor = Color.DimGray;
-            button46.BackgroundImage = Properties.Resources.botao_menos4;
+            button46.BackColor = Color.Transparent;
+            button46.BackgroundImage = Properties.Resources.botao_menos;
             button46.BackgroundImageLayout = ImageLayout.Stretch;
             button46.Cursor = Cursors.Hand;
             button46.Dock = DockStyle.Bottom;
@@ -1752,8 +1752,8 @@
             // 
             // button48
             // 
-            button48.BackColor = Color.DimGray;
-            button48.BackgroundImage = Properties.Resources.botao_menos4;
+            button48.BackColor = Color.Transparent;
+            button48.BackgroundImage = Properties.Resources.botao_menos;
             button48.BackgroundImageLayout = ImageLayout.Stretch;
             button48.Cursor = Cursors.Hand;
             button48.Dock = DockStyle.Bottom;
@@ -1768,8 +1768,8 @@
             // 
             // button49
             // 
-            button49.BackColor = Color.DimGray;
-            button49.BackgroundImage = Properties.Resources.botao_mais4;
+            button49.BackColor = Color.Transparent;
+            button49.BackgroundImage = Properties.Resources.botao_mais;
             button49.BackgroundImageLayout = ImageLayout.Stretch;
             button49.Cursor = Cursors.Hand;
             button49.Dock = DockStyle.Bottom;
@@ -1784,8 +1784,8 @@
             // 
             // button50
             // 
-            button50.BackColor = Color.DimGray;
-            button50.BackgroundImage = Properties.Resources.botao_menos4;
+            button50.BackColor = Color.Transparent;
+            button50.BackgroundImage = Properties.Resources.botao_menos;
             button50.BackgroundImageLayout = ImageLayout.Stretch;
             button50.Cursor = Cursors.Hand;
             button50.Dock = DockStyle.Bottom;
@@ -1800,8 +1800,8 @@
             // 
             // button51
             // 
-            button51.BackColor = Color.DimGray;
-            button51.BackgroundImage = Properties.Resources.botao_mais4;
+            button51.BackColor = Color.Transparent;
+            button51.BackgroundImage = Properties.Resources.botao_mais;
             button51.BackgroundImageLayout = ImageLayout.Stretch;
             button51.Cursor = Cursors.Hand;
             button51.Dock = DockStyle.Bottom;
@@ -1816,8 +1816,8 @@
             // 
             // button52
             // 
-            button52.BackColor = Color.DimGray;
-            button52.BackgroundImage = Properties.Resources.botao_menos4;
+            button52.BackColor = Color.Transparent;
+            button52.BackgroundImage = Properties.Resources.botao_menos;
             button52.BackgroundImageLayout = ImageLayout.Stretch;
             button52.Cursor = Cursors.Hand;
             button52.Dock = DockStyle.Bottom;
@@ -1832,8 +1832,8 @@
             // 
             // button53
             // 
-            button53.BackColor = Color.DimGray;
-            button53.BackgroundImage = Properties.Resources.botao_mais4;
+            button53.BackColor = Color.Transparent;
+            button53.BackgroundImage = Properties.Resources.botao_mais;
             button53.BackgroundImageLayout = ImageLayout.Stretch;
             button53.Cursor = Cursors.Hand;
             button53.Dock = DockStyle.Bottom;
@@ -1848,8 +1848,8 @@
             // 
             // button54
             // 
-            button54.BackColor = Color.DimGray;
-            button54.BackgroundImage = Properties.Resources.botao_menos4;
+            button54.BackColor = Color.Transparent;
+            button54.BackgroundImage = Properties.Resources.botao_menos;
             button54.BackgroundImageLayout = ImageLayout.Stretch;
             button54.Cursor = Cursors.Hand;
             button54.Dock = DockStyle.Bottom;
@@ -1864,8 +1864,8 @@
             // 
             // button55
             // 
-            button55.BackColor = Color.DimGray;
-            button55.BackgroundImage = Properties.Resources.botao_mais4;
+            button55.BackColor = Color.Transparent;
+            button55.BackgroundImage = Properties.Resources.botao_mais;
             button55.BackgroundImageLayout = ImageLayout.Stretch;
             button55.Cursor = Cursors.Hand;
             button55.Dock = DockStyle.Bottom;
@@ -1880,8 +1880,8 @@
             // 
             // button56
             // 
-            button56.BackColor = Color.DimGray;
-            button56.BackgroundImage = Properties.Resources.botao_menos4;
+            button56.BackColor = Color.Transparent;
+            button56.BackgroundImage = Properties.Resources.botao_menos;
             button56.BackgroundImageLayout = ImageLayout.Stretch;
             button56.Cursor = Cursors.Hand;
             button56.Dock = DockStyle.Bottom;
@@ -1896,8 +1896,8 @@
             // 
             // button57
             // 
-            button57.BackColor = Color.DimGray;
-            button57.BackgroundImage = Properties.Resources.botao_mais4;
+            button57.BackColor = Color.Transparent;
+            button57.BackgroundImage = Properties.Resources.botao_mais;
             button57.BackgroundImageLayout = ImageLayout.Stretch;
             button57.Cursor = Cursors.Hand;
             button57.Dock = DockStyle.Bottom;
@@ -1912,8 +1912,8 @@
             // 
             // button58
             // 
-            button58.BackColor = Color.DimGray;
-            button58.BackgroundImage = Properties.Resources.botao_menos4;
+            button58.BackColor = Color.Transparent;
+            button58.BackgroundImage = Properties.Resources.botao_menos;
             button58.BackgroundImageLayout = ImageLayout.Stretch;
             button58.Cursor = Cursors.Hand;
             button58.Dock = DockStyle.Bottom;
@@ -1928,8 +1928,8 @@
             // 
             // button59
             // 
-            button59.BackColor = Color.DimGray;
-            button59.BackgroundImage = Properties.Resources.botao_mais4;
+            button59.BackColor = Color.Transparent;
+            button59.BackgroundImage = Properties.Resources.botao_mais;
             button59.BackgroundImageLayout = ImageLayout.Stretch;
             button59.Cursor = Cursors.Hand;
             button59.Dock = DockStyle.Bottom;
@@ -1944,8 +1944,8 @@
             // 
             // button60
             // 
-            button60.BackColor = Color.DimGray;
-            button60.BackgroundImage = Properties.Resources.botao_menos4;
+            button60.BackColor = Color.Transparent;
+            button60.BackgroundImage = Properties.Resources.botao_menos;
             button60.BackgroundImageLayout = ImageLayout.Stretch;
             button60.Cursor = Cursors.Hand;
             button60.Dock = DockStyle.Bottom;
@@ -1960,8 +1960,8 @@
             // 
             // button61
             // 
-            button61.BackColor = Color.DimGray;
-            button61.BackgroundImage = Properties.Resources.botao_mais4;
+            button61.BackColor = Color.Transparent;
+            button61.BackgroundImage = Properties.Resources.botao_mais;
             button61.BackgroundImageLayout = ImageLayout.Stretch;
             button61.Cursor = Cursors.Hand;
             button61.Dock = DockStyle.Bottom;
@@ -3053,8 +3053,8 @@
             // 
             // button47
             // 
-            button47.BackColor = Color.DimGray;
-            button47.BackgroundImage = Properties.Resources.botao_mais4;
+            button47.BackColor = Color.Transparent;
+            button47.BackgroundImage = Properties.Resources.botao_mais;
             button47.BackgroundImageLayout = ImageLayout.Stretch;
             button47.Cursor = Cursors.Hand;
             button47.Dock = DockStyle.Bottom;
@@ -3102,8 +3102,8 @@
             // 
             // button63
             // 
-            button63.BackColor = Color.DimGray;
-            button63.BackgroundImage = Properties.Resources.botao_mais4;
+            button63.BackColor = Color.Transparent;
+            button63.BackgroundImage = Properties.Resources.botao_mais;
             button63.BackgroundImageLayout = ImageLayout.Stretch;
             button63.Cursor = Cursors.Hand;
             button63.Dock = DockStyle.Bottom;
@@ -3118,8 +3118,8 @@
             // 
             // button62
             // 
-            button62.BackColor = Color.DimGray;
-            button62.BackgroundImage = Properties.Resources.botao_menos4;
+            button62.BackColor = Color.Transparent;
+            button62.BackgroundImage = Properties.Resources.botao_menos;
             button62.BackgroundImageLayout = ImageLayout.Stretch;
             button62.Cursor = Cursors.Hand;
             button62.Dock = DockStyle.Bottom;
