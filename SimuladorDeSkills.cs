@@ -118,30 +118,42 @@ namespace AikaHelp_ByGrifinory
         private void buttontemplaria_Click(object sender, EventArgs e)
         {
             SelectTemplaria();
+            AtualizarPontos();
+            AtualizarLabels();
         }
         private void buttonatirador_Click(object sender, EventArgs e)
         {
             SelectAtirador();
+            AtualizarPontos();
+            AtualizarLabels();
         }
 
         private void buttoncleriga_Click(object sender, EventArgs e)
         {
             SelectCleriga();
+            AtualizarPontos();
+            AtualizarLabels();
         }
 
         private void buttonfeiticeiro_Click(object sender, EventArgs e)
         {
             SelectFeiticeiro();
+            AtualizarPontos();
+            AtualizarLabels();
         }
 
         private void buttonguerreiro_Click(object sender, EventArgs e)
         {
             SelectGuerreiro();
+            AtualizarPontos();
+            AtualizarLabels();
         }
 
         private void buttonpistoleira_Click(object sender, EventArgs e)
         {
             SelectPistoleira();
+            AtualizarPontos();
+            AtualizarLabels();
         }
 
 
@@ -229,6 +241,7 @@ namespace AikaHelp_ByGrifinory
 
         private void SelectTemplaria()
         {
+            AtualizarPontos();
             // Página 1
             pictureBox1.Image = Properties.Resources.proficiencia_com_escudo;
             pictureBox2.Image = Properties.Resources.remediar;
@@ -270,6 +283,7 @@ namespace AikaHelp_ByGrifinory
 
         private void SelectAtirador()
         {
+            AtualizarPontos();
             // Página 1
             pictureBox1.Image = Properties.Resources.contagem_regressiva;
             pictureBox2.Image = Properties.Resources.tiro_fatal;
@@ -311,6 +325,7 @@ namespace AikaHelp_ByGrifinory
 
         private void SelectFeiticeiro()
         {
+            AtualizarPontos();
             // Página 1
             pictureBox1.Image = Properties.Resources.chama_caotica;
             pictureBox2.Image = Properties.Resources.sofrimento;
@@ -352,6 +367,7 @@ namespace AikaHelp_ByGrifinory
 
         private void SelectCleriga()
         {
+            AtualizarPontos();
             // Página 1
             pictureBox1.Image = Properties.Resources.flecha_sagrada;
             pictureBox2.Image = Properties.Resources.cura;
@@ -393,6 +409,7 @@ namespace AikaHelp_ByGrifinory
 
         private void SelectGuerreiro()
         {
+            AtualizarPontos();
             // Página 1
             pictureBox1.Image = Properties.Resources.ataque_poderoso;
             pictureBox2.Image = Properties.Resources.avanco_poderoso;
@@ -434,6 +451,7 @@ namespace AikaHelp_ByGrifinory
 
         private void SelectPistoleira()
         {
+            AtualizarPontos();
             // Página 1
             pictureBox1.Image = Properties.Resources.mjolnir;
             pictureBox2.Image = Properties.Resources.espinho_venenoso;

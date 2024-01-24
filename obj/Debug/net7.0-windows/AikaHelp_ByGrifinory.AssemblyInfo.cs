@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AikaHelp_ByGrifinory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f6b487ed1fb230786cdfb52c1e0c8315d3ff1d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a194e2fb6e8b06266f93632f67ce74e17919c9e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AikaHelp_ByGrifinory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AikaHelp_ByGrifinory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
