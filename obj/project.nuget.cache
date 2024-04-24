@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CK76n4tkzgsQ9s/h0x52VoMAJsgAXpnie4FOEM+vN/6ImlpWv3qRI7Jep5i1qG21Dvb/oI9WHrajDb/wQpDu4g==",
+  "dgSpecHash": "sx28n4BdGEiADHKiJL1xhSYAFEEFNWzPrLoAwJ6YiUUvxfrAaxkkqM3zAMrOw/6QCswIvDzp3Nr+p/VS9qCK9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Wellden Moura\\Documents\\GitHub\\Aika-Helper\\AikaHelp_ByGrifinory.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }
